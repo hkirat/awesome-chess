@@ -38,4 +38,10 @@ Bots
 
 Move Validators
  - [Validator 1](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess Authentication.
- - [Validator 2](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves
+ - [Validator 2](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
+
+Website
+ - [Website 1](multiplayerchess.com) - Multiplayerchess.com is a simple single page chess playing application facilitating the play of chess.
+ - [Website 2](http://en.lichess.org/) - One of the most mature platforms for playing chess on the internet.It is open Source too.It is equipped with daily puzzles and an TV to spectate other matches. 
+ - [Website 3](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
+ 
