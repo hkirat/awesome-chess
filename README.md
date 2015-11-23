@@ -20,29 +20,38 @@ CHESS
 
 BOOKS
 ---
+*Books to read on Chess*
+
  - [Chess Problems](https://kairavacademydotcom.files.wordpress.com/2013/06/john-thursby-75-chess-problems.pdf) - Collection of Chess puzzles.
  - [Chess strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - HTML version of Chess strategy by Edward Lasker.
  - [Sicilian Dragon](http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf)
 
 FEN Parsers
 ---
-	 Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game. 
+*Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
+
  - [PARSER 1](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
  - [PARSER 2](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
  - [PARSER 3](https://github.com/andyherbert/fen-diagram) - Javascript script for generating chess diagrams using Forsyth-Edwards notation.
 
 Bots
 ---
+*Bots are algorithms involving artificial intelligence to play against a user.*
+
  - [BOT 1](https://github.com/benwr/latrunculorum) - A simple chess bot in Python.
  - [BOT 2](https://github.com/jfabeel/Chessbot) - Bot written in Java.
 
 Move Validators
 ---
+*Validators are tools for checking authenticity of a move*
+
  - [Validator 1](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess Authentication.
  - [Validator 2](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
 
 Website
 ---
+*Websites include platforms for people to play chess*
+
  - [Website 1](multiplayerchess.com) - Multiplayerchess.com is a simple single page chess playing application facilitating the play of chess.
  - [Website 2](http://en.lichess.org/) - One of the most mature platforms for playing chess on the internet.It is open Source too.It is equipped with daily puzzles and an TV to spectate other matches. 
  - [Website 3](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
@@ -50,6 +59,8 @@ Website
 
 Boards
 ---
+*Boards are tools for encapsulating the process of rendering a board.*
+
  - [Chessboard.js](https://github.com/oakmac/chessboardjs/) - chessboard.js is a standalone JavaScript Chess Board.
  - [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions.It takes FEN string as input and renders the board as output.
  - [jchess](https://github.com/bmarini/jchess) - A jQuery based javascript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
