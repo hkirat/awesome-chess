@@ -97,4 +97,4 @@ Talks
  - [Talk 3](https://www.youtube.com/watch?v=v34NqCbAA1c) - Working backward to solve problems by Maurice Ashley
  - [Talk 4](https://www.youtube.com/watch?v=lgCSo1Txw3c) - CHESS LIFE 
  - [Talk 5](https://www.youtube.com/watch?v=7EuxVOgrEig) - Why Chess is Boring by Bobby Fischer
- 
+ - [Talk 6](https://www.youtube.com/watch?v=p027ysBt0_M) - Chess Peeps
