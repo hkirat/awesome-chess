@@ -38,3 +38,4 @@ Bots
 
 Move Validators
  - [Validator 1](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess Authentication.
+ - [Validator 2](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves
