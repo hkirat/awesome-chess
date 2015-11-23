@@ -76,3 +76,13 @@ Board Notations
  	- [Algerbric Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
  	- [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
  	- [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)
+
+Peices
+---
+*This includes the tools for getting artwork for various peices of chess*
+
+ - [https://www.thingiverse.com/thing:470700](Spiral Peices in 3-D)
+ - [https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent](Peices on Wikipedia)
+ - [https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode](Chess Peices in Unicode)
+ - [http://www.flaticon.com/search/chess](Icons on flaticons)
+ - [https://thenounproject.com/search/?q=chess](Icons on thenounproject)
