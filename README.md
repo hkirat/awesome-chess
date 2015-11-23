@@ -37,16 +37,31 @@ Bots
  - [BOT 2](https://github.com/jfabeel/Chessbot) - Bot written in Java.
 
 Move Validators
+---
  - [Validator 1](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess Authentication.
  - [Validator 2](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
 
 Website
+---
  - [Website 1](multiplayerchess.com) - Multiplayerchess.com is a simple single page chess playing application facilitating the play of chess.
  - [Website 2](http://en.lichess.org/) - One of the most mature platforms for playing chess on the internet.It is open Source too.It is equipped with daily puzzles and an TV to spectate other matches. 
  - [Website 3](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
  - [Website 4](http://play.chessbase.com/js/apps/playchess/) - Lucrative, Single page application for playing chess. 
 
 Boards
+---
  - [Chessboard.js](https://github.com/oakmac/chessboardjs/) - chessboard.js is a standalone JavaScript Chess Board.
  - [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions.It takes FEN string as input and renders the board as output.
  - [jchess](https://github.com/bmarini/jchess) - A jQuery based javascript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
+ - [Chessboard-js](https://github.com/caustique/chessboard-js) - A responsive mobile-first javascript chessboard library.
+
+Board Notations
+---
+*Notations are a way of expressing the properties of the board in textual format. [Tutorial on Chess Notations](http://chess.eusa.ed.ac.uk/Chess/Rules/notation.html)*
+
+ - [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) - A FEN "record" defines a particular game position, all in one text line and using only the ASCII character set.
+ - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
+ - Other Notations
+ 	- [Algerbric Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
+ 	- [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
+ 	- [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)
