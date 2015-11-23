@@ -25,7 +25,7 @@ BOOKS
 
  - [Chess Problems](https://kairavacademydotcom.files.wordpress.com/2013/06/john-thursby-75-chess-problems.pdf) - Collection of Chess puzzles.
  - [Chess strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - HTML version of Chess strategy by Edward Lasker.
- - [Sicilian Dragon](http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf)
+ - [Sicilian Dragon](http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf) - Attacking Plans For Black.
 
 FEN Parsers
 ---
@@ -82,11 +82,11 @@ Peices
 ---
 *This includes the tools for getting artwork for various peices of chess*
 
- - [https://www.thingiverse.com/thing:470700](Spiral Peices in 3-D)
- - [https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent](Peices on Wikipedia)
- - [https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode](Chess Peices in Unicode)
- - [http://www.flaticon.com/search/chess](Icons on flaticons)
- - [https://thenounproject.com/search/?q=chess](Icons on thenounproject)
+ - [Spiral Peices in 3-D](https://www.thingiverse.com/thing:470700)
+ - [Peices on Wikipedia](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
+ - [Chess Peices in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode)
+ - [Icons on flaticons](http://www.flaticon.com/search/chess)
+ - [Icons on thenounproject](https://thenounproject.com/search/?q=chess)
 
 Talks
 ---
