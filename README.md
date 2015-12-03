@@ -94,10 +94,10 @@ Talks
 ---
 *Talks on Chess*
  
- - [Talk 1](https://www.youtube.com/watch?v=fPopQaY7Og4) - Understanding Chess Mastery by Jennifer Shahade
- - [Talk 2](https://www.youtube.com/watch?v=A3yDvM8aplY) - How Chess Can Revolutionize Learning by Cody Pomeranz
- - [Talk 3](https://www.youtube.com/watch?v=v34NqCbAA1c) - Working backward to solve problems by Maurice Ashley
- - [Talk 4](https://www.youtube.com/watch?v=lgCSo1Txw3c) - CHESS LIFE 
- - [Talk 5](https://www.youtube.com/watch?v=7EuxVOgrEig) - Why Chess is Boring by Bobby Fischer
- - [Talk 6](https://www.youtube.com/watch?v=p027ysBt0_M) - Chess Peeps
- - [Talk 7](https://www.youtube.com/watch?v=A3yDvM8aplY) - How Chess Can Revolutionize Learning by Cody Pomeranz
+ - [Understanding Chess Mastery](https://www.youtube.com/watch?v=fPopQaY7Og4) -Talk on Understanding Chess Mastery by Jennifer Shahade
+ - [How Chess Can Revolutionize Learning](https://www.youtube.com/watch?v=A3yDvM8aplY) - Talk on How Chess Can Revolutionize Learning by Cody Pomeranz
+ - [Working backward to solve problems](https://www.youtube.com/watch?v=v34NqCbAA1c) - Talk on Working backward to solve problems by Maurice Ashley
+ - [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
+ - [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on Why Chess is Boring by Bobby Fischer
+ - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)
+ - [How Chess Can Revolutionize Learning](https://www.youtube.com/watch?v=A3yDvM8aplY) - Talk on How Chess Can Revolutionize Learning by Cody Pomeranz
