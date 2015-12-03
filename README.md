@@ -39,8 +39,8 @@ Bots
 ---
 *Bots are algorithms involving artificial intelligence to play against a user.*
 
- - [BOT 1](https://github.com/benwr/latrunculorum) - A simple chess bot in Python.
- - [BOT 2](https://github.com/jfabeel/Chessbot) - Bot written in Java.
+ - [latrunculorum](https://github.com/benwr/latrunculorum) - A simple chess bot in Python.
+ - [Chessbot](https://github.com/jfabeel/Chessbot) - Bot written in Java.
 
 Move Validators
 ---
