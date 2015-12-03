@@ -31,9 +31,9 @@ FEN Parsers
 ---
 *Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
 
- - [PARSER 1](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
- - [PARSER 2](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
- - [PARSER 3](https://github.com/andyherbert/fen-diagram) - Javascript script for generating chess diagrams using Forsyth-Edwards notation.
+ - [fenparser by tlehman](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
+ - [fen by ucarion](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
+ - [fen-diagram by andyherbert](https://github.com/andyherbert/fen-diagram) - Javascript script for generating chess diagrams using Forsyth-Edwards notation.
 
 Bots
 ---
