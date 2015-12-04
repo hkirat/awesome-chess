@@ -76,7 +76,7 @@ Board Notations
  - [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) - A FEN "record" defines a particular game position, all in one text line and using only the ASCII character set.
  - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
  - Other Notations
- 	- [Algerbric Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
+ 	- [Algebraic Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
  	- [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
  	- [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)
 
