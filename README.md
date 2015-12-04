@@ -16,7 +16,7 @@ CHESS
  - [Websites](#websites)
  - [Boards](#boards)
  - [Board Notations](#board-notations)
- - [Peices](#peices)
+ - [Pieces](#pieces)
  - [Talks](#talks)
 
 BOOKS
@@ -80,13 +80,13 @@ Board Notations
  	- [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
  	- [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)
 
-Peices
+Pieces
 ---
-*This includes the tools for getting artwork for various peices of chess*
+*This includes the tools for getting artwork for various pieces of chess*
 
- - [Spiral Peices in 3-D](https://www.thingiverse.com/thing:470700)
- - [Peices on Wikipedia](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
- - [Chess Peices in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode)
+ - [Spiral Pieces in 3-D](https://www.thingiverse.com/thing:470700)
+ - [Pieces on Wikipedia](https://commons.wikimedia.org/wiki/Category:PNG_chess_pieces/Standard_transparent)
+ - [Chess Pieces in Unicode](https://en.wikipedia.org/wiki/Chess_symbols_in_Unicode)
  - [Icons on flaticons](http://www.flaticon.com/search/chess)
  - [Icons on thenounproject](https://thenounproject.com/search/?q=chess)
 
