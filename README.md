@@ -59,6 +59,7 @@ Websites
  - [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
  - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, Single page application for playing chess. 
  - [chess.com](http://www.chess.com/) - Learn and Play chess with over 5 Million users.
+ - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy)
 
 Boards
 ---
