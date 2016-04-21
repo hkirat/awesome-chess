@@ -5,7 +5,7 @@ A Curated list of Assets availible on the internet related to Chess.
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).*
 
 ### Contributing
-Kindly Go Through Contribution Guidelines First.
+Kindly Go Through [Contribution Guidelines](https://github.com/hkirat/awesome-chess/blob/master/CONTRIBUTING.md#contribution-guidelines) First.
 
 CHESS
 ---
