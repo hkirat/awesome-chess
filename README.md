@@ -79,6 +79,7 @@ Board Notations
  - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
  - Other Notations
  	- [Algebraic Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
+ 	- [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) - Official chess game notation for all International Correspondence Chess Federation games.
  	- [Smith Chess Notation](http://www6.chessclub.com/chessviewer/smith.html)
  	- [Descriptive Notation](https://en.wikipedia.org/wiki/Descriptive_notation)
 
