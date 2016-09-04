@@ -103,4 +103,3 @@ Talks
  - [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
  - [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on Why Chess is Boring by Bobby Fischer
  - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)
- - [How Chess Can Revolutionize Learning](https://www.youtube.com/watch?v=A3yDvM8aplY) - Talk on How Chess Can Revolutionize Learning by Cody Pomeranz
