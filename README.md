@@ -61,6 +61,7 @@ Websites
  - [chess.com](http://www.chess.com/) - Learn and Play chess with over 5 Million users.
  - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy)
  - [chesstempo.com](chesstempo.com) - Online chess tactics training site.
+ - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
 
 Boards
 ---
