@@ -62,6 +62,7 @@ Websites
  - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy)
  - [chesstempo.com](chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
+ - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
 
 Boards
 ---
