@@ -63,7 +63,7 @@ Websites
  - [chesstempo.com](chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
  - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
- - [README chess](https://github.com/benbarth/readme-chess) - The low-tech high-tech version of chess. Play chess using GitHub. Branch new games and Pull Request your moves.
+ - [GitHub - README Chess](https://github.com/benbarth/readme-chess) - The low-tech high-tech version of chess. Play chess using GitHub. Branch new games and Pull Request your moves.
 
 Boards
 ---
