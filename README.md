@@ -25,7 +25,7 @@ Books
 
  - [Chess Problems](https://kairavacademydotcom.files.wordpress.com/2013/06/john-thursby-75-chess-problems.pdf) - Collection of chess puzzles.
  - [Chess strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - HTML version of chess strategy by Edward Lasker.
- - [Sicilian Dragon](http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf) - Attacking plans for black.
+ - [Sicilian Dragon](http://beatingnationalmasters.synthasite.com/resources/Sicilian_Dragon_Black_Attacks_ssd.pdf) - Attacking plans for black.
 
 FEN Parsers
 ---
