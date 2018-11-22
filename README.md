@@ -31,6 +31,10 @@ Books
  - [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI engine communication
  - [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
 
+### Game analyzers
+ - [python-chess-annotator](https://github.com/rpdelaney/python-chess-annotator) Reads chess games in PGN format and adds annotations using an engine
+ - [chess-artist](https://github.com/fsmosca/chess-artist) A python script that can annotate chess games in pgn file with static evaluation or search score of an engine, can annotate games with cerebellum book moves using the Brainfish engine with its Cerebellum_Light.bin book file, can annotate an epd file with acd, acs, bm, and ce opcodes and can test engine with epd test suite.
+
 ### FEN Parsers
 *Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
 
