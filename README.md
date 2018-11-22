@@ -10,9 +10,7 @@ Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-ch
 Content
 ---
  - [Books](#books)
- - [FEN Parsers](#fen-parsers)
- - [Move Validators](#move-validators)
- - [Bots](#bots)
+ - [Software](#software)
  - [Websites](#websites)
  - [Boards](#boards)
  - [Board Notations](#board-notations)
@@ -27,26 +25,32 @@ Books
  - [Chess strategy](http://www.gutenberg.org/cache/epub/5614/pg5614-images.html) - HTML version of chess strategy by Edward Lasker.
  - [Sicilian Dragon](http://www.chesscity.com/PDF/Sicilian_Dragon_Black_Attacks_ssd.pdf) - Attacking plans for black.
 
-FEN Parsers
----
+# Software
+
+### Libraries
+ - [python-chess](https://github.com/niklasf/python-chess) - A pure Python chess library with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing and UCI engine communication
+ - [chess.js](https://github.com/jhlywa/chess.js) - A Javascript chess library for chess move generation/validation, piece placement/movement, and check/checkmate/draw detection
+
+### Game analyzers
+ - [python-chess-annotator](https://github.com/rpdelaney/python-chess-annotator) Reads chess games in PGN format and adds annotations using an engine
+ - [chess-artist](https://github.com/fsmosca/chess-artist) A python script that can annotate chess games in pgn file with static evaluation or search score of an engine, can annotate games with cerebellum book moves using the Brainfish engine with its Cerebellum_Light.bin book file, can annotate an epd file with acd, acs, bm, and ce opcodes and can test engine with epd test suite.
+
+### FEN Parsers
 *Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
 
  - [fenparser by tlehman](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
  - [fen by ucarion](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
  - [fen-diagram by andyherbert](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation.
 
-Bots
----
+### Bots
 *Bots are algorithms involving artificial intelligence to play against a user.*
 
  - [latrunculorum](https://github.com/benwr/latrunculorum) - A simple chess bot in Python.
  - [Chessbot](https://github.com/jfabeel/Chessbot) - Bot written in Java.
 
-Move Validators
----
+### Move Validators
 *Validators are tools for checking authenticity of a move.*
 
- - [chess.js](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication.
  - [npm chess package](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
  - [Chessnut](https://github.com/cgearhart/Chessnut.git) - Chessnut is a simple chess board model written in Python. It provides functionality of parsing FEN and generating a list of legal moves for each FEN representation.
 
