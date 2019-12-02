@@ -78,7 +78,7 @@ Board Notations
 *Notations are a way of expressing the properties of the board in textual format. [Tutorial on Chess Notations](http://chess.eusa.ed.ac.uk/Chess/Rules/notation.html).*
 
  - [FEN](https://en.wikipedia.org/wiki/Forsyth%E2%80%93Edwards_Notation) - A FEN "record" defines a particular game position, all in one text line and using only the ASCII character set.
- - [PNG](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
+ - [PGN](http://www6.chessclub.com/help/PGN-spec) - PGN is structured "for easy reading and writing by human users and for easy parsing and generation by computer programs." 
  - Other Notations
  	- [Algebraic Chess Notation](https://en.wikipedia.org/wiki/Algebraic_notation_(chess))
  	- [ICCF numeric notation](https://en.wikipedia.org/wiki/ICCF_numeric_notation) - Official chess game notation for all International Correspondence Chess Federation games.
