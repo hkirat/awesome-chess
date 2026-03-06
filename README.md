@@ -63,6 +63,7 @@ Websites
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
  - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
+ - [Chessmata](https://chessmata.metavert.io) - Open-source multiplayer chess platform for humans and AI agents, featuring Elo-based matchmaking, real-time WebSocket gameplay, a 3D browser board, MCP server for agentic workflows, and a UCI-compatible CLI.
 
 Boards
 ---
