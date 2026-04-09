@@ -72,6 +72,7 @@ Boards
  - [chess-board](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output.
  - [jchess](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
  - [Chessboard-js](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library.
+ - [Chess-tui](https://github.com/thomas-mauran/chess-tui) - A terminal chess board application written in Rust, supporting local and online play.
 
 Board Notations
 ---
