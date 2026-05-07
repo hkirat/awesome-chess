@@ -63,6 +63,7 @@ Websites
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
  - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
+- [chess.rodeo](https://chess.rodeo) - Chess improvement platform with Stockfish analysis, AI bots, repertoire builder, stats, and video recaps.
 
 Boards
 ---
