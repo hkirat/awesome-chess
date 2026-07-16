@@ -34,6 +34,7 @@ FEN Parsers
  - [fenparser by tlehman](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
  - [fen by ucarion](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
  - [fen-diagram by andyherbert](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation.
+ - [fenshot](https://github.com/scoriiu/fenshot) - The reverse direction: screenshot to FEN. Detects the chessboard in any screenshot or book diagram and reads the position with a CNN, entirely in the browser (TypeScript, npm package, live demo).
 
 Bots
 ---
