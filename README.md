@@ -63,6 +63,7 @@ Websites
  - [chesstempo.com](http://chesstempo.com) - Online chess tactics training site.
  - [chessprogramming.wikispaces.com](https://chessprogramming.wikispaces.com/) - Repository of information about programming computers to play chess.
  - [freechess.org](http://freechess.org/) - The 'Free Internet Chess Server' (FICS) is one of the oldest Internet chess servers. There are lots of client applications for almost every device, operation system or webbrowser available.
+ - [scanchess.com](https://scanchess.com) - Snap a photo of a paper scoresheet or a board position to get an interactive game record, position analysis and shareable PGN. Includes free printable scoresheets.
 
 Boards
 ---
