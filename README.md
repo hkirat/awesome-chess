@@ -57,6 +57,7 @@ Websites
  - [multiplayerchess.com](http://multiplayerchess.com) - A simple single page chess playing application facilitating the play of chess.
  - [lichess.org](http://en.lichess.org/) - One of the most mature platforms for playing chess on the internet. It is open source too. It is equipped with daily puzzles and an TV to spectate other matches.
  - [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
+ - [Zeno Chess Clock](https://zenochessclock.com/chess-clock) - Free online chess clock with increment and delay, no sign-up required.
  - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, single page application for playing chess. 
  - [chess.com](http://www.chess.com/) - Learn and play chess with over 5 million other users.
  - [chesscademy.com](https://www.chesscademy.com/) - Watch videos, solve puzzles, and play games. All for free. (Works similar to Khan Academy.)
