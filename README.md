@@ -56,6 +56,7 @@ Websites
 
  - [multiplayerchess.com](http://multiplayerchess.com) - A simple single page chess playing application facilitating the play of chess.
  - [lichess.org](http://en.lichess.org/) - One of the most mature platforms for playing chess on the internet. It is open source too. It is equipped with daily puzzles and an TV to spectate other matches.
+ - [Patzer](https://github.com/SikamikanikoBG/patzer) - Self-hosted Chess.com alternative: game review, play vs Stockfish or a friend, and an AI coach on your own LLM (Ollama/vLLM), in one Docker container.
  - [chess24.com](https://chess24.com/en/play/chess) - Play as well as learn chess from chess24 with the best of tutorials.
  - [chessbase.com](http://play.chessbase.com/js/apps/playchess/) - Lucrative, single page application for playing chess. 
  - [chess.com](http://www.chess.com/) - Learn and play chess with over 5 million other users.
